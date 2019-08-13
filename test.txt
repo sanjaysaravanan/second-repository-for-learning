@@ -1,1 +1,2 @@
 Hi This Is The Second File For The Git Learning ! ! !
+Hi Hello This is the second change for this file
