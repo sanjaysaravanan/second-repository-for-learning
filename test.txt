@@ -1,3 +1,0 @@
-Hi This Is The Second File For The Git Learning ! ! !
-Hi Hello This is the second change for this file
-Third Change To this File ----> Third Change For The File
