@@ -5,3 +5,4 @@ This Text Is for The Ustaging Experiment
 Again This Line Is For Testing The amend Command
 This is the Second Improved Line For Amend Command
 This is the added for testing in the linux environment from vim and sublime editor
+This is the line added for testing the commands for setting remote repository
